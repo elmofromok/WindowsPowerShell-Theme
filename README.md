@@ -4,7 +4,7 @@ A custom PowerShell prompt theme inspired by the [alien theme](https://github.co
 
 ## Screenshots
 
-[screenshot.png]
+![A screenshot of my green alien like theme.](screenshot.png "My Custom Alienish Theme")
 
 ## Features
 
